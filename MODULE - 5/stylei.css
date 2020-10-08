@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(202, 29, 29);
+}
+
+h1 {
+    text-align: center;
+}
+
+.Red { 
+    color: red;
+}
+.Blue {
+    color: rgb(219, 219, 230);
+}
+.Green { 
+    color: green;
+}
+.TextBig {
+ font-size: x-large;
+}
+.Texttiny {
+    font-size: xx-small;
+}
+
+.styledFont {
+    font-style: italic;
+}
+
+.Center {
+    text-align: center;
+}
+.Bold {
+    font-weight: bold;
+}
+.FontN {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.changes {
+    color: orange;
+    font-weight: bold;
+    font-size: larger;
+}
+p.inset {
+    border-style: inset;
+    border-width: thin;
+}
+#styledImage {
+    border-color: magenta;
+    border-width: 10px;
+    border-style: inset;
+   }
